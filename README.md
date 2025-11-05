@@ -1,5 +1,5 @@
 run these commands locally to run this project:-
-git clone git@github.com:AkshatYadav-bit/bhraman-state-explorer-10790.git
+git clone git@github.com:AkshatYadav-bit/bhraman.git
 
 the in git clone directory run:-
 npm install
