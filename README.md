@@ -1,7 +1,7 @@
 run these commands locally to run this project:-
 git clone git@github.com:AkshatYadav-bit/bhraman.git
 
-the in git clone directory run:-
+then in git clone directory run:-
 npm install
 sudo npm install -g typescipt (use sudo for linux only)
 
